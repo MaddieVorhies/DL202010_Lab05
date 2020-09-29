@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/DL202010_Lab05/Lab05/systemverilog/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/DL202010_Lab05/Lab05/systemverilog/halfadder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/DL202010_Lab05/Lab05/systemverilog/fulladder_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder_test
