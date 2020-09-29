@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+H:/DL202010_Lab05/Lab05/Lab05.sim/sim_3/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+H:/DL202010_Lab05/Lab05/systemverilog/addsub.sv,1601353310,systemVerilog,,H:/DL202010_Lab05/Lab05/systemverilog/fulladder.sv,,addsub,,,,,,,,
+H:/DL202010_Lab05/Lab05/systemverilog/addsub_test.sv,1601352781,systemVerilog,,,,addsub_test,,,,,,,,
+H:/DL202010_Lab05/Lab05/systemverilog/fulladder.sv,1601347022,systemVerilog,,H:/DL202010_Lab05/Lab05/systemverilog/halfadder.sv,,fulladder,,,,,,,,
+H:/DL202010_Lab05/Lab05/systemverilog/halfadder.sv,1601346584,systemVerilog,,H:/DL202010_Lab05/Lab05/systemverilog/addsub_test.sv,,halfadder,,,,,,,,
