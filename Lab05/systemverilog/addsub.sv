@@ -43,7 +43,7 @@ module addsub(
       .cout(c2), .sout(sum[1])
       );
       
-   assign cbout = c2 | mode;
+   assign cbout = c2 ^ mode;
    
    
 endmodule
